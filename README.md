@@ -9,12 +9,11 @@
 * soon.
 
 ### Docker Images
-* The docker images saved in DockerHub, address: https://hub.docker.com/u/yuan/
+* The docker images saved in DockerHub, address: .
 
 ### System Architecture
-> ![Framework](http://pic.yuan25.com/framework.png)
-> ![Architecture](http://pic.yuan25.com/architecture.jpg)
+* .
 
 ### Development Team
-* Yuan (yuan@yuan25.com)
+* Yuan (caoyuan0816@gmail.com)
 * Tpircsboy (churehill@163.com)
